@@ -1,5 +1,3 @@
-<h1>Credit Card Fraud Detection Model Using Scikit-Learn</h1>
-  
 # Credit Card Fraud Detection
 
 This project demonstrates a basic end-to-end machine learning classification workflow for detecting fraudulent credit card transactions.
